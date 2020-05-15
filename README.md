@@ -1,10 +1,5 @@
 # 작업내역
--------------
+You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
 
-StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible **offline!**
-
-> **Note:**
-
-> - StackEdit is accessible offline after the application has been loaded for the first time.
-> - Your local documents are not shared between different browsers or computers.
-> - Clearing your browser's data may **delete all your local documents!** Make sure your documents are synchronized with **Google Drive** or **Dropbox** (check out the [<i class="icon-refresh"></i> Synchronization](#synchronization) section).
+- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
+- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
